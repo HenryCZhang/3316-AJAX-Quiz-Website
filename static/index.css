@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+a{
+    background-color: black;
+    border-radius: 10px;
+    padding:5px;
+    color: white;
+    text-decoration: none;
+    font:large;
+}
+button{
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding:5px;
+}

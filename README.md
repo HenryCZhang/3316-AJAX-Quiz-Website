@@ -1,6 +1,7 @@
 # 3316-AJAX-Quiz-Website
 
 Basic Reuqirement
+
 1- The tool should be created as an Express App.
 2- The given ‘questions.json’ file simulate the database of the questions maintained by the server.
 3- The main quiz page should be a static HTML file
@@ -11,6 +12,7 @@ c. Whenever the user changes their choice (by clicking on one of the radio butto
 d. When the user clicks ‘submit’ all the answers are checked at the server and a grade is displayed to the user (1 point per question).
 
 The Deployment
+
 1- Connect to the GCP VM instance through SSH.
 2- Install Node.js 14.x by running these commands (if you’ve already installed node.js for lab3 you
 can skip this step)

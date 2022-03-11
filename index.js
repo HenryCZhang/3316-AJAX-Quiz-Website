@@ -2,7 +2,6 @@ const express = require('express');
 const app = express();
 const questionList = require('./questions.json');
 
-
 app.use(express.static('static'));// serve static contents
 
 app.get('/questionInJSON', (req, res) => {
